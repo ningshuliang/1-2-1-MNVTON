@@ -3,7 +3,7 @@
 
 [Shuliang Ning*](https://ningshuliang.github.io/),
 [Xiaodong Gu*](https://scholar.google.com.hk/citations?user=aJPO514AAAAJ&hl=zh-CN&oi=ao),
-[Qi Zuo*](https://scholar.google.com/citations?view_op=list_works&hl=en&user=UDnHe2IAAAAJ),
+[Qi Zuo](https://scholar.google.com/citations?view_op=list_works&hl=en&user=UDnHe2IAAAAJ),
 [Yipeng Qin](https://profiles.cardiff.ac.uk/staff/qiny16),
 [Lingteng Qiu](https://lingtengqiu.github.io/),
 [Zilong Dong#](https://scholar.google.com/citations?user=GHOQKCwAAAAJ&hl=zh-CN&oi=ao),
