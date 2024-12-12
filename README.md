@@ -67,7 +67,7 @@ bash test.sh
 
 ![text-to-nd](figs/VITONHD.png)
 
-##More video results are shown in project page. 
+## More video results are shown in project page. 
 
 
 
