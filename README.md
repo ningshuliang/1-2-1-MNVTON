@@ -5,7 +5,7 @@
 [Yipeng Qin](https://profiles.cardiff.ac.uk/staff/qiny16),
 [Xiaoguang Han#](https://gaplab.cuhk.edu.cn/)
 
-<a href='https://ningshuliang.github.io/2023/Arxiv/index.html'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2312.04534'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=jr7wSOsZOoo)
+<a href='https://ningshuliang.github.io/2023/Arxiv/index.html'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=jr7wSOsZOoo)
 
 <img src=".\figs\teaser.png">
 
@@ -16,13 +16,13 @@
 - [ ] Multiview-ND and Multiview-Albedo Diffusion Models
 - [ ] Release code (The code will be public around the end of Dec.2023.) -->
 
-## Updates
+<!-- ## Updates
 - **`2024/12/26`**: Our [**Inference Code**](https://github.com/Zheng-Chong/CatVTON/blob/main/inference.py) and [**Weights** 🤗](https://huggingface.co/zhengchong/CatVTON) are released.
 
-- **`2024/12/26`**: Our [**Paper on ArXiv**](http://arxiv.org/abs/2407.15886) is available 🥳!
-
+- **`2024/12/26`**: Our [**Paper on ArXiv**](http://arxiv.org/abs/2407.15886) is available 🥳! -->
+<!-- 
 ## To do list
-- **`TBD`**: Release the training code.
+- **`TBD`**: Release the training code. -->
 
 <!-- ## Install
 
