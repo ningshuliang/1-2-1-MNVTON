@@ -1,12 +1,8 @@
 # 1-2-1
 1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On
 
-[Shuliang Ning*](https://ningshuliang.github.io/),
-[Xiaodong Gu*](https://scholar.google.com.hk/citations?user=aJPO514AAAAJ&hl=zh-CN&oi=ao),
-[Qi Zuo](https://scholar.google.com/citations?view_op=list_works&hl=en&user=UDnHe2IAAAAJ),
+[Shuliang Ning](https://ningshuliang.github.io/),
 [Yipeng Qin](https://profiles.cardiff.ac.uk/staff/qiny16),
-[Lingteng Qiu](https://lingtengqiu.github.io/),
-[Zilong Dong#](https://scholar.google.com/citations?user=GHOQKCwAAAAJ&hl=zh-CN&oi=ao),
 [Xiaoguang Han#](https://gaplab.cuhk.edu.cn/)
 
 <a href='https://ningshuliang.github.io/2023/Arxiv/index.html'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2312.04534'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=d1nb4OfT5BM)
@@ -20,9 +16,13 @@
 - [ ] Multiview-ND and Multiview-Albedo Diffusion Models
 - [ ] Release code (The code will be public around the end of Dec.2023.) -->
 
+## Updates
+- **`2024/12/26`**: Our [**Inference Code**](https://github.com/Zheng-Chong/CatVTON/blob/main/inference.py) and [**Weights** 🤗](https://huggingface.co/zhengchong/CatVTON) are released.
 
+- **`2024/12/26`**: Our [**Paper on ArXiv**](http://arxiv.org/abs/2407.15886) is available 🥳!
 
-
+## To do list
+- **`TBD`**: Release the training code.
 
 <!-- ## Install
 
@@ -68,17 +68,3 @@ bash test.sh
 ![text-to-nd](figs/VITONHD.png)
 
 ## More video results are shown in project page. 
-
-
-
-<!-- ## Citation	
-
-```
-@article{qiu2023richdreamer,
-    title={RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D}, 
-    author={Lingteng Qiu and Guanying Chen and Xiaodong Gu and Qi zuo and Mutian Xu and Yushuang Wu and Weihao Yuan and Zilong Dong and Liefeng Bo and Xiaoguang Han},
-    year={2023},
-    journal = {arXiv preprint arXiv:2311.16918}
-}
-``` -->
-
